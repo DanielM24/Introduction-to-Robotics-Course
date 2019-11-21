@@ -5,3 +5,6 @@
 
 ### 2nd Homework
 **KnockDetector** - Detect a knock using a passive piezo buzzer and start a buzzer sound (which can be stopped using a pushbutton) using an active piezo buzzer after five seconds after the knock.
+
+### 3rd Homework
+**4Digit_7SegmentDisplay_Control** - Control each digit from a four digit display with a joystick. We select a digit with the joystick and then, by pressing the button, it will lock in the digit so that it's value can be incremented / decremented.
