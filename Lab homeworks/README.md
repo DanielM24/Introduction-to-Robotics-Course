@@ -8,3 +8,6 @@
 
 ### 3rd Homework
 **4Digit_7SegmentDisplay_Control** - Control each digit from a four digit display with a joystick. We select a digit with the joystick and then, by pressing the button, it will lock in the digit so that it's value can be incremented / decremented.
+
+### 4th Homework
+**LCD_Game_Menu** - Create a simple meniu for a fictional game. It has 3 options in the main menu: play, highscore and settings. This meniu also includes a level selector, changeable player name and a number of lives. The highscore is stored on the EEPROM which allows us to track it after restarting the Arduino. Link for a video demo: https://drive.google.com/file/d/1j6p7Ps7U6QVSuNpJbtAjzLPeusiAzqli/view?usp=sharing
