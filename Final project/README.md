@@ -1,8 +1,9 @@
-## Final Project
+# Final Project
 **About the project:**
+
 This is an example of a digital clock using a LCD. The user can set up an alarm, which can be dismissed by solving a simple math question, or by solving a LED memory game. Additional features: MP3 music player using the DFPlayer Mini module.
 
-**Requirements**
+### Requirements
 
 •	Arduino Mega 2560 Rev3
 
@@ -30,6 +31,6 @@ This is an example of a digital clock using a LCD. The user can set up an alarm,
 
 • 10uf capacitor
 
-## Scheme of the project:
+## Scheme of the project
 
 ![Scheme of the project](https://github.com/DanielM24/Introduction-to-Robotics-Course/blob/master/Final%20project/Digital%20alarm%20clock.png)
